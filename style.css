@@ -1,0 +1,140 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.bac img{
+  width: 60%;
+   
+  
+}
+.logo {
+  position: absolute;
+  top: 0px;
+  left: 10px;
+ 
+}
+ nav span {
+  text-align: center;
+  left: 20%;
+}
+.logo img {
+  width: 87px;
+  height: 53px;
+  margin: -9%
+
+}
+.nav {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #9caeb7;
+    position: relative;
+    left: 150px;
+    width: 87%;
+ 
+  }
+  .all {
+    padding-left: 0px;
+    
+  }
+  body{
+    background-color:#9caeb7;  
+   
+  }
+  span {
+    float: left;
+    display: block;
+    color: white; 
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ .card {
+  width: 38%;
+  height: 333px;
+  background-color: #ebf5f4;
+  position: absolute;
+  top: 128px;
+  right: 247px;
+  box-shadow: -97PX 0px #2c3f46d1;
+  font-size: large
+}
+.btn {
+  position: absolute;
+    bottom: -11px;
+    right: 199px; 
+    width: 120PX;
+    padding: 10px 10px;
+    background-color: #498295;
+
+}
+hr{
+  color: #446e8f;
+  
+}
+p {
+  padding-top: 6px;
+  text-align: center;
+}
+b {
+bottom: 10px;
+  padding-left:140px;
+}
+.icon {
+  position: absolute;
+  margin-right: -40%;
+  right: 859px;
+  top: 510px;
+}
+
+  footer{
+    position: relative;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    height: 370px;
+    margin-top: -24px;
+    
+}
+.service  {
+  background-color: #ffffff;
+  position: absolute;
+  top: 59px;
+  width: 250px;
+  left: 150px;
+}
+.web {
+  position: absolute;
+  top: 59px;
+  width: 252px;
+  left: 520px;
+  text-align: center;
+}
+.Graphic {
+  position: absolute;
+  top: 59px;
+  width: 252px;
+  left: 890px;
+  text-align: center;
+  
+}
+.service button{
+  background-color: #446e8f;
+  padding: 13px 70px;
+  border: none;
+  color: white;
+  margin: 18px 34px;
+   
+}
+.service h1  {
+  color: #446e8f;
+}
+.web h3 {
+  color: #446e8f;
+}
+.Graphic h3 {
+  color: #446e8f;
+}
+footer i {
+  color: #446e8f;
+}
+
